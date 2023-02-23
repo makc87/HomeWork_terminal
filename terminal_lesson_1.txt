@@ -1,0 +1,7 @@
+cd
+pwd
+touch
+vim
+mkdir
+rm
+cp
